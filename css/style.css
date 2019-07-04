@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #fee1e1;
+  background-color: #ff0000;
 }
 
 .wrapper {
@@ -159,8 +159,8 @@ body {
 
 .card__cometOuter {
   position: absolute;
-  top: 30%;
-  left: 25%;
+  top: 18%;
+  left: 21%;
 }
 
 .card__comet--second {
